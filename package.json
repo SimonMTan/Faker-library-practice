@@ -1,0 +1,23 @@
+{
+  "name": "faker_mock_server",
+  "version": "1.0.0",
+  "description": "practice faker data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonMTan/Faker-library-practice.git"
+  },
+  "keywords": [],
+  "author": "simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimonMTan/Faker-library-practice/issues"
+  },
+  "homepage": "https://github.com/SimonMTan/Faker-library-practice#readme",
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
