@@ -31,7 +31,7 @@ const generatePersonsData = (number) => {
   const persons = [];
   while (number >= 0) {
     persons.push({
-			id:number,
+	id:number,
       name: faker.name.firstName(),
       description: faker.lorem.paragraphs(2),
       picture: faker.image.avatar(),
